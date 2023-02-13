@@ -1,7 +1,7 @@
 # Include.js
 
 A simple JavaScript library that allows you to include external HTML files.
-This works exactly like [EJS](https://ejs.co/#docs) (for my Node.js fellas) or [Jinja](https://jinja.palletsprojects.com/en/3.1.x/templates/#include) (for Python lovers) except that you don't have to set up a complicated server to make it work.
+This works exactly like [EJS](https://ejs.co/#docs) (for my Node.js fellas) or [Jinja](https://jinja.palletsprojects.com/en/3.1.x/templates/#include) (for Python lovers), except that you don't have to set up a complicated server to make it work.
 
 ## How to use it
 
