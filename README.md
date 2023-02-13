@@ -26,6 +26,10 @@ In `<your_file>.html`, you can use the variable `message` by using the following
 ```
 This will render `message`'s value: `Hello world!`.
 
+## Showcase/example
+
+[You can see a basic showcase/example here.](https://xeway.github.io/includejs/showcase)
+
 ## Why this is useful ?
 
 Because there's sometimes redundant code that you have to write in every HTML file you create (generally it's a footer/header).
