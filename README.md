@@ -7,7 +7,7 @@ This works exactly like [EJS](https://ejs.co/#docs) (for my Node.js fellas) or [
 
 First, import the necessary file in the `head` tag:
 ```HTML
-<script src="https://raw.githubusercontent.com/Xeway/includejs/main/include.js" defer></script>
+<script src="https://cdn.jsdelivr.net/gh/Xeway/includejs/include.js" defer></script>
 ```
 
 After that, insert an HTML file (wherever you want in your code):
@@ -28,7 +28,7 @@ This will render `message`'s value: `Hello world!`.
 
 ## Showcase/example
 
-[You can see a basic showcase/example here.](https://xeway.github.io/includejs/)
+[You can see a basic showcase/example here.](https://xeway.github.io/includejs/showcase/)
 
 ## Why this is useful ?
 
