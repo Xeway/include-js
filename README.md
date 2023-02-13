@@ -28,7 +28,7 @@ This will render `message`'s value: `Hello world!`.
 
 ## Showcase/example
 
-[You can see a basic showcase/example here.](https://xeway.github.io/includejs/showcase)
+[You can see a basic showcase/example here.](https://xeway.github.io/includejs/)
 
 ## Why this is useful ?
 
