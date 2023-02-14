@@ -41,3 +41,26 @@ So it's way simpler and more maintainable to store a same code in 1 file and jus
 > The library doesn't work, the console throws me the error <span style="color: red;">`CORS request not HTTP`</span>.
 
 ↳ This is because Include.js makes requests to get your HTML files you want to include, and it's not allowed by browsers to request to internal files for security reasons. To make it work, you'll have to run your website on localhost (when developing) by using something like [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) and if your website is already on production, you just have to make your HTML files public.
+
+## Browser compatibility
+
+<table>
+    <tr>
+        <th>Chrome</th>
+        <th>Edge</th>
+        <th>Safari</th>
+        <th>Firefox</th>
+        <th>Opera</th>
+        <th>IE</th>
+    </tr>
+    <tr>
+        <td>≥ 45</td>
+        <td>≥ 14</td>
+        <td>≥ 10.1</td>
+        <td>≥ 65</td>
+        <td>≥ 32</td>
+        <td>🙈</td>
+    </tr>
+</table>
+
+<sup>Source: [Can I use](https://caniuse.com/)</sup>
