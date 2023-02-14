@@ -28,7 +28,7 @@ for (const include of document.querySelectorAll("include")) {
     .then((result) => {
         for (const attribute of Array.from(include.attributes)) {
             if (attribute.localName === "src") continue;
-            const r = new RegExp(`<\\$\\s*${attribute.localName}\\s*\\$>`, "g");
+            const r = new RegExp(`\\[%\\s*${attribute.localName}\\s*%\\]`, "g");
             result = result.replace(r, include.getAttribute(attribute.localName));
         }
 

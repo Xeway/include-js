@@ -22,7 +22,7 @@ You can also make your HTML files more customizable by *injecting* variables. Fo
 ```
 In `<your_file>.html`, you can use the variable `message` by using the following syntax:
 ```HTML
-<$ message $>
+[% message %]
 ```
 This will render `message`'s value: `Hello world!`.
 
