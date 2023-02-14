@@ -9,6 +9,7 @@ First, import the necessary file in the `head` tag:
 ```HTML
 <script src="https://cdn.jsdelivr.net/gh/Xeway/includejs/include.js" defer></script>
 ```
+<sup>For production, it's best to download [`include.js`](https://raw.githubusercontent.com/Xeway/includejs/main/include.js) from that repository and load it by changing `src` attribute to `/path/to/file/include.js`.</sup>
 
 After that, insert an HTML file (wherever you want in your code):
 ```HTML
