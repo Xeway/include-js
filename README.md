@@ -54,12 +54,12 @@ So it's way simpler and more maintainable to store a same code in 1 file and jus
         <th>IE</th>
     </tr>
     <tr>
-        <td>≥ 45</td>
-        <td>≥ 14</td>
-        <td>≥ 10.1</td>
-        <td>≥ 65</td>
-        <td>≥ 32</td>
-        <td>🙈</td>
+        <td align="center">≥ 45</td>
+        <td align="center">≥ 14</td>
+        <td align="center">≥ 10.1</td>
+        <td align="center">≥ 65</td>
+        <td align="center">≥ 32</td>
+        <td align="center">🙈</td>
     </tr>
 </table>
 
