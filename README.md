@@ -7,7 +7,7 @@ This works exactly like [EJS](https://ejs.co/#docs) (for my Node.js fellas) or [
 
 First, import the necessary file in the `head` tag:
 ```HTML
-<script src="https://cdn.jsdelivr.net/gh/Xeway/includejs/include.js" defer></script>
+<script src="https://cdn.jsdelivr.net/gh/Xeway/includejs@main/include.js" defer></script>
 ```
 <sup>For production, it's best to download [`include.js`](https://raw.githubusercontent.com/Xeway/includejs/main/include.js) from that repository and load it by changing `src` attribute to `/path/to/file/include.js`.</sup>
 
